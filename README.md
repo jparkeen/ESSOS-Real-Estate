@@ -1,6 +1,6 @@
 # frontend
 
-**Product Summary
+**Product Summary**
 
 Essos is a real-estate web application that strives to be a simple to use listing platform for
 real-estate agents and home seekers. With Essos , agents and prospective buyers can connec
