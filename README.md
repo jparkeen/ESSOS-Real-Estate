@@ -17,6 +17,7 @@ The simple-to-use platform that Essos provides makes taking the first steps to b
 property easier - all it takes is a simple button press.
 
 
+
 **Executive Summary**
 
 At Essos, we believe finding Real Estate for rent or sale should be seamless and easy. And we
@@ -54,6 +55,7 @@ in their respective fields. Sharing the common experiences of struggling in the 
 Francisco housing market, our team understands how difficult it can be to find good housing in
 today’s fast paced world. Thus, with experience and extensive research, our developers have
 created Essos which shall be your newest friend to finding and selling real estate.
+
 
 **Use Case**
 
